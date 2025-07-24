@@ -48,7 +48,7 @@ A microservices-based system for flight booking built using Spring Boot 3, Sprin
 ## Features
 Search flights by source, destination, and date
 
->> Book flights with full passenger and payment details
+> Book flights with full passenger and payment details
 
 > Generate booking confirmation with ticket info
 
